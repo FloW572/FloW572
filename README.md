@@ -8,7 +8,7 @@ MSc Data Science & Engineering · Odoo + AI · DACH
 ## Currently working on
 
 - **PDF RAG System** — LangGraph Agent, ChromaDB, Groq/Gemini, Kubernetes
-- AI document processing in production (invoices, COC, driver licenses, registration)
+- **AI document processing** in production (invoices, COC, driver licenses, registration)
 - **Second Brain** — Self-hosted Telegram AI Assistant, PostgreSQL/pgvector, Claude Haiku/Opus
 
 ---
