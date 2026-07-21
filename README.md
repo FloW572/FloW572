@@ -9,6 +9,7 @@ MSc Data Science & Engineering · Odoo + AI · DACH
 
 - **PDF RAG System** — LangGraph Agent, ChromaDB, Groq/Gemini, Kubernetes
 - AI document processing in production (invoices, COC, driver licenses, registration)
+  **Second Brain** — Self-hosted Telegram AI Assistant, PostgreSQL/pgvector, Claude Haiku/Opus
 
 ---
 
@@ -46,3 +47,4 @@ Odoo · PostgreSQL · XML-RPC · ETL Pipelines
 | Project | Description | Stack |
 |---|---|---|
 | [PDF RAG System](https://github.com/FloW572/PDF_RAG_System) | Local RAG system for invoice analysis with LangGraph Agent | Python, LangGraph, ChromaDB, FastAPI |
+| [Second Brain](https://github.com/FloW572/Second-Brain) | Self-hosted personal AI assistant via Telegram with hybrid search and voice input | Python, PostgreSQL, pgvector, Claude |
